@@ -1,5 +1,7 @@
 // === Device for Endangered Species (Simulation Version) ===
+//Tinkercad (Arduino, Led, PIR sensor, Potentiometer as Pulse Sensor)
 // PIR → pin 2, Potentiometer → A0, LED → 13
+
 
 const int PIR_PIN = 2;
 const int PULSE_PIN = A0;
